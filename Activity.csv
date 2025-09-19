@@ -1,0 +1,53 @@
+Employee Name,Activity Type,Date,Email,START_TIME,END_TIME
+Luca Romano,Exam,6/2/2025,luca.romano@endava.com,6/2/2025 12:00,6/2/2025 13:00
+Luca Romano,Exam,6/4/2025,luca.romano@endava.com,6/4/2025 9:00,6/4/2025 11:00
+Luca Romano,Exam,6/9/2025,luca.romano@endava.com,6/9/2025 12:00,6/9/2025 13:00
+Luca Romano,Exam,6/11/2025,luca.romano@endava.com,6/11/2025 9:00,6/11/2025 11:00
+Luca Romano,Exam,6/16/2025,luca.romano@endava.com,6/16/2025 12:00,6/16/2025 13:00
+Luca Romano,Exam,6/18/2025,luca.romano@endava.com,6/18/2025 9:00,6/18/2025 11:00
+Luca Romano,Exam,6/25/2025,luca.romano@endava.com,6/25/2025 9:00,6/25/2025 11:00
+Luca Romano,Exam,6/30/2025,luca.romano@endava.com,6/30/2025 12:00,6/30/2025 13:00
+Marco Bianchi,Exam,6/3/2025,marco.bianchi@endava.com,6/3/2025 11:00,6/3/2025 12:00
+Marco Bianchi,Exam,6/10/2025,marco.bianchi@endava.com,6/10/2025 11:00,6/10/2025 12:00
+Marco Bianchi,Exam,6/12/2025,marco.bianchi@endava.com,6/12/2025 11:00,6/12/2025 13:00
+Marco Bianchi,Exam,6/19/2025,marco.bianchi@endava.com,6/19/2025 11:00,6/19/2025 13:00
+Marco Bianchi,Exam,6/20/2025,marco.bianchi@endava.com,6/20/2025 10:00,6/20/2025 13:00
+Marco Bianchi,Exam,6/24/2025,marco.bianchi@endava.com,6/24/2025 11:00,6/24/2025 12:00
+Marco Bianchi,Exam,6/27/2025,marco.bianchi@endava.com,6/27/2025 10:00,6/27/2025 13:00
+Giovanni Esposito,Personal,6/5/2025,giovanni.esposito@endava.com,6/5/2025 8:00,6/5/2025 9:00
+Giovanni Esposito,Personal,6/10/2025,giovanni.esposito@endava.com,6/10/2025 11:00,6/10/2025 14:00
+Giovanni Esposito,Personal,6/12/2025,giovanni.esposito@endava.com,6/12/2025 8:00,6/12/2025 9:00
+Giovanni Esposito,Personal,6/19/2025,giovanni.esposito@endava.com,6/19/2025 8:00,6/19/2025 9:00
+Antonio Russo,Personal,6/3/2025,antonio.russo@endava.com,6/3/2025 10:00,6/3/2025 13:00
+Antonio Russo,Personal,6/10/2025,antonio.russo@endava.com,6/10/2025 10:00,6/10/2025 13:00
+Antonio Russo,Personal,6/24/2025,antonio.russo@endava.com,6/24/2025 10:00,6/24/2025 13:00
+Francesco Greco,Exam,6/4/2025,francesco.greco@endava.com,6/4/2025 8:00,6/4/2025 10:00
+Francesco Greco,Exam,6/11/2025,francesco.greco@endava.com,6/11/2025 8:00,6/11/2025 10:00
+Francesco Greco,Exam,6/18/2025,francesco.greco@endava.com,6/18/2025 8:00,6/18/2025 10:00
+Francesco Greco,Exam,6/25/2025,francesco.greco@endava.com,6/25/2025 8:00,6/25/2025 10:00
+Matteo Conti,Exam,6/5/2025,matteo.conti@endava.com,6/5/2025 8:00,6/5/2025 10:00
+Alessandro Costa,Exam,6/5/2025,alessandro.costa@endava.com,6/5/2025 9:00,6/5/2025 11:00
+Alessandro Costa,Personal,6/12/2025,alessandro.costa@endava.com,6/12/2025 9:00,6/12/2025 11:00
+Giorgio Rinaldi,Personal,6/2/2025,giorgio.rinaldi@endava.com,6/2/2025 10:00,6/2/2025 13:00
+Giorgio Rinaldi,Personal,6/3/2025,giorgio.rinaldi@endava.com,6/3/2025 8:00,6/3/2025 10:00
+Giorgio Rinaldi,Personal,6/5/2025,giorgio.rinaldi@endava.com,6/5/2025 10:00,6/5/2025 11:00
+Giorgio Rinaldi,Personal,6/9/2025,giorgio.rinaldi@endava.com,6/9/2025 10:00,6/9/2025 13:00
+Giorgio Rinaldi,Personal,6/10/2025,giorgio.rinaldi@endava.com,6/10/2025 8:00,6/10/2025 10:00
+Giorgio Rinaldi,Personal,6/12/2025,giorgio.rinaldi@endava.com,6/12/2025 10:00,6/12/2025 11:00
+Giorgio Rinaldi,Personal,6/16/2025,giorgio.rinaldi@endava.com,6/16/2025 10:00,6/16/2025 13:00
+Giorgio Rinaldi,Personal,6/19/2025,giorgio.rinaldi@endava.com,6/19/2025 10:00,6/19/2025 11:00
+Giorgio Rinaldi,Personal,6/24/2025,giorgio.rinaldi@endava.com,6/24/2025 8:00,6/24/2025 10:00
+Giorgio Rinaldi,Personal,6/30/2025,giorgio.rinaldi@endava.com,6/30/2025 10:00,6/30/2025 13:00
+Stefano De Luca,Exam,6/4/2025,stefano.de@endava.com,6/4/2025 9:00,6/4/2025 11:00
+Stefano De Luca,Exam,6/11/2025,stefano.de@endava.com,6/11/2025 9:00,6/11/2025 11:00
+Stefano De Luca,Exam,6/18/2025,stefano.de@endava.com,6/18/2025 9:00,6/18/2025 11:00
+Stefano De Luca,Exam,6/25/2025,stefano.de@endava.com,6/25/2025 9:00,6/25/2025 11:00
+Nicola Moretti,Exam,6/2/2025,nicola.moretti@endava.com,6/2/2025 8:00,6/2/2025 11:00
+Nicola Moretti,Exam,6/9/2025,nicola.moretti@endava.com,6/9/2025 8:00,6/9/2025 11:00
+Nicola Moretti,Exam,6/11/2025,nicola.moretti@endava.com,6/11/2025 16:00,6/11/2025 17:00
+Nicola Moretti,Exam,6/16/2025,nicola.moretti@endava.com,6/16/2025 8:00,6/16/2025 11:00
+Nicola Moretti,Exam,6/20/2025,nicola.moretti@endava.com,6/20/2025 11:00,6/20/2025 12:00
+Nicola Moretti,Exam,6/27/2025,nicola.moretti@endava.com,6/27/2025 11:00,6/27/2025 12:00
+Nicola Moretti,Exam,6/30/2025,nicola.moretti@endava.com,6/30/2025 8:00,6/30/2025 11:00
+Luca Romano,Annual Leave,6/10/2025,luca.romano@endava.com,6/10/2025 9:00,6/10/2025 17:00
+Antonio Russo,Medical Leave,6/11/2025,antonio.russo@endava.com,6/11/2025 9:00,6/11/2025 17:00
