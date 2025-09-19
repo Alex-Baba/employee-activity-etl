@@ -88,10 +88,10 @@ SELECT * FROM V_EMPLOYEE_MONTHLY_REPORT ORDER BY FULL_NAME, YEAR, MONTH;
 ## 5. Results (Screenshots)
 
 ### Daily Activity
-![Employee Daily Activity](Employee daily activity.png)
+![Employee Daily Activity](Employeedailyactivity.png)
 
 ### Monthly Report
-![Employee Monthly Report](Employee monthly report.png)
+![Employee Monthly Report](Employeemonthlyreport.png)
 
 ---
 
